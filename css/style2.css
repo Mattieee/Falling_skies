@@ -1,0 +1,226 @@
+.box{
+	margin-top:-18.6%;
+	margin-left:-64%;
+	
+}
+
+
+.box h2{
+	font-family:"falling skies";
+	letter-spacing: 2px;
+	margin-left:-10%;
+}
+
+
+
+
+
+.glyphicon.glyphicon-user{
+	color:grey;
+	right:216px;
+	top:-43px;
+}
+.glyphicon.glyphicon-thumbs-up{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up2{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up3{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up4{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up5{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up6{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up7{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up8{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up9{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up10{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up11{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-thumbs-up12{
+	color:grey;
+	right:-200px;
+	top:10px;
+}
+.glyphicon.glyphicon-lock{
+	color:grey;
+	right:30px;
+	top:-83px;
+}
+
+.form_demo {
+
+}
+
+.form_demo input {
+	
+	margin-bottom: 9px;  /* ESPACE ENTRE LES BARRES*/
+	
+}
+
+.box_inscription {
+	
+	font-family:"falling skies";
+	letter-spacing: 2px;
+	color:white;	
+	margin-top:100px;
+	margin-left:5%;
+}
+
+.inscription{
+	position:absolute;
+	font-family:"falling skies";
+	letter-spacing: 2px;
+	color:white;	
+	font-size: 50px;
+	top:600px;
+	margin-left: 26.2%
+}
+
+.pseudo{
+	font-family:"Lato";
+	font-size: 21px;
+	text-align: center;
+
+
+}
+
+.mail{
+	font-family:"Lato";
+	font-size: 21px;
+	text-align: center;
+	
+}
+
+.confirmer_mail{
+	font-family:"Lato";
+	font-size: 21px;
+	text-align: center;
+	
+}
+
+.mdp{
+	font-family:"Lato";
+	font-size: 21px;
+	text-align: center;
+}
+
+.confirmer_mdp{
+	font-family:"Lato";
+	font-size: 21px;
+	text-align: center;
+
+}
+
+.titre1 {
+	margin-top:100px;
+	font-family:"falling skies";
+	letter-spacing: 2px;
+	color:#3d3d3d;
+	font-size: 50px;
+}
+
+
+.inputbasic {
+	border: 3px solid lightgrey;
+	padding: 6px;
+	transition: all 0.5s ease;
+	border-radius: 2px;
+}
+
+.inputbasic:focus {
+	border-color: red;
+}
+
+.user{
+
+	padding-left: 30px;
+	font-size: 13px;
+}
+
+.password{
+
+	padding-left: 35px;
+	font-size: 13px;
+}
+
+.form_demo input[type=submit]{
+	background-color: white;
+	border: 1px solid red;
+	padding: 5px;
+	color: red;
+	border-radius: 3px;
+	transition: all 0.5s ease;
+}
+
+.form_demo input[type=submit]:hover {
+	background-color: red;
+	color: white;
+	border-radius: 10px;
+}
+
+.row1 img{
+	-webkit-filter: grayscale(1);
+	cursor: pointer;
+	transition: all .5s ease;
+}
+.row1 img:hover{
+	-webkit-filter: grayscale(0);
+	transform: scale(1.7,1.7);
+}
+
+/*.box_article{
+	margin-left:29%;
+	margin-top:-30%;
+	font-size: 16px;
+	font-family:"Lato";
+	letter-spacing: 2px;
+	color:#3d3d3d;
+	}
+	*/
+	.scarlett{
+		margin-right: 10px; 
+	}
+
+	.scarlett2{
+		margin-top:100px;
+		margin-left:70%;
+	}
